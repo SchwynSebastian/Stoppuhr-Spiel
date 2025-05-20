@@ -24,15 +24,4 @@ Eine spielerische Übung für dein Zeitgefühl – perfekt für zwischendurch!
 - ✅ Farbige Konsolenausgaben zur besseren Orientierung  
 - ✅ Eingabevalidierung
 
----
 
-## 🖥️ Bedienung
-
-Beim Start der Anwendung erscheint folgendes Menü:
-
-```text
-Stopwatch Menu:
-1. Start
-2. Stop
-3. Reset
-Enter your choice (1-3):
